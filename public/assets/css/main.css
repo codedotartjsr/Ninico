@@ -1635,7 +1635,8 @@ only screen and (min-width: 1200px) and (max-width: 1399px) {
     color: var(--tp-grey-3);
     font-family: var(--tp-ff-fontawesome);
     margin-left: 4px;
-    display: inline-block;
+    /* display: inline-block; */
+    display: none;
     font-weight: 400;
 }
 
